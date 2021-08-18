@@ -52,4 +52,5 @@
 <a href="https://www.linkedin.com/in/mehedisarkar2k/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mehedi%20Sarkar-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/mehedisarkar2k/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mehedisarkar2k-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:mehedisarkar2k@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Email-mehedisarkar2k@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.facebook.com/MehediSarkar2k"><img alt="facebook" src="https://img.shields.io/badge/Facebook-Mehedi%20Hasan%20Sarkar-blue?style=flat-square&logo=facebook"></a>
 </p>
