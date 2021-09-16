@@ -2,6 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedisarkar2k&label=Profile%20views&color=0e75b6&style=flat" alt="mehdisarkar2k" /> </p>
+
 - :computer: I just love `Exploring New Things` - and - `Quick Solutions` 🤔
 - 🎓 &nbsp; I'm student of `physics`, but my dreams brought me here.
 - 🌱 &nbsp; Learning more about Web Development and Design.
