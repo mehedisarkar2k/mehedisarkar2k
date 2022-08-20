@@ -52,6 +52,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedisarkar2k&theme=buefy&layout=compact" />
 </a>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/fahimu10">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fahimu10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fahimu10&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
