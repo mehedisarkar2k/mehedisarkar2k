@@ -23,12 +23,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=mehedisarkar2k&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedisarkar2k&theme=radical" alt="GitHub Streak" height="165"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mehedisarkar2k&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedisarkar2k&theme=gotham" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedisarkar2k&layout=compact&theme=radical" alt="Most Used Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedisarkar2k&layout=compact&theme=gotham" alt="Most Used Languages" height="165"/>
 </p>
 
 ---
