@@ -22,14 +22,23 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mehedisarkar2k&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedisarkar2k&theme=gotham" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedisarkar2k&layout=compact&theme=gotham" alt="Most Used Languages" height="165"/>
-</p>
+</p> -->
+
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehedisarkar2k&theme=dark" height="163em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehedisarkar2k&theme=dark" height="163em" /> 
+  <br>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedisarkar2k&theme=dark" height="160em" /> 
+  <br>
+<!--   <img src="https://streak-stats.demolab.com?user=mizanmahi&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" height="161em" /> -->
+</div>
 
 ---
 
