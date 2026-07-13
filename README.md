@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mehedi Hasan Sarkar
 
-Frontend Engineer with over 4 years of experience building scalable web and mobile applications using modern JavaScript technologies.
+Software Engineer with 4+ years of experience building SaaS products, AI-powered platforms, and cross-platform mobile applications using React, Next.js, React Native, TypeScript, and Node.js. Experienced in frontend architecture, AI integrations, authentication, payments, and scalable product development
 
 📍 Dhaka, Bangladesh  
 🌐 Portfolio: https://www.mehedisarkar.com  
@@ -15,7 +15,7 @@ Frontend Engineer with over 4 years of experience building scalable web and mobi
 My name is **Mehedi Hasan Sarkar**.  
 I am a **Frontend Engineer** specializing in **React, Next.js, and React Native**, with strong backend experience in **Express.js, MongoDB, and Docker**.
 
-I have hands-on experience building real-world products including:
+I have hands-on experience building real-world products, including:
 - SaaS platforms
 - Booking and payment systems
 - Real-time applications
@@ -44,6 +44,13 @@ I enjoy working on product-focused teams and building systems that are reliable,
 - Linux
 - CI/CD (learning)
 
+**AI & Integration**
+- OpenAI API
+- Azure OpenAI
+- Function Calling
+- Prompt Engineering
+- - AI Integration
+
 ---
 
 ## 📊 GitHub Activity
@@ -58,7 +65,7 @@ I enjoy working on product-focused teams and building systems that are reliable,
 
 - Docker & production workflows
 - CI/CD pipelines
-- Kubernetes fundamentals
+- DevOps Fundamentals
 
 ---
 
