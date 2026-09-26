@@ -1,78 +1,25 @@
-# Hi 👋, I'm Mehedi Hasan Sarkar
+# Mehedi Hasan Sarkar
 
-Software Engineer with 4+ years of experience building SaaS products, AI-powered platforms, and cross-platform mobile applications using React, Next.js, React Native, TypeScript, and Node.js. Experienced in frontend architecture, AI integrations, authentication, payments, and scalable product development
+Full-stack engineer for web and mobile apps, 4+ years. TypeScript, Node.js, React, Next.js and React Native.
 
-📍 Dhaka, Bangladesh  
-🌐 Portfolio: https://www.mehedisarkar.com  
+Portfolio and case studies: https://www.mehedisarkar.com/?ref=github
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehedisarkar2k)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehedisarkar2k)
+## What I work on
 
----
+- **Booking platforms.** A 10-minute slot hold, so two people cannot book the same court at the same moment. Reminders, cancellations and club payouts.
+- **Payments.** Stripe across 4 products: manual capture, Connect payouts, refunds and 3D Secure. Money only moves when the booking is really going ahead.
+- **Inherited systems.** On one salon booking system I documented 31 defects, fixed them in priority order and cut the mobile payload from 17.2 MB to 1.7 MB.
+- **Mobile apps.** Led a mobile team of 3 developers on 2 products and owned the App Store and Google Play releases. Worked on a padel booking app with 100K+ Google Play downloads.
+- **AI content pipelines.** Gemini OCR that turns scanned textbooks into typed content blocks, with per-page timeouts, retries and recovery after a worker crash.
 
-## 👨‍💻 About Me
+## Stack
 
-My name is **Mehedi Hasan Sarkar**.  
-I am a **Frontend Engineer** specializing in **React, Next.js, and React Native**, with strong backend experience in **Express.js, MongoDB, and Docker**.
+TypeScript, Node.js, Express, NestJS, React, Next.js, React Native, Expo, MongoDB, MySQL, Redis, BullMQ, Stripe, Docker, GitHub Actions, Vercel, AWS.
 
-I have hands-on experience building real-world products, including:
-- SaaS platforms
-- Booking and payment systems
-- Real-time applications
-- Scalable REST APIs
+## Side projects
 
-I enjoy working on product-focused teams and building systems that are reliable, maintainable, and user-friendly.
+- [desco-balance-check](https://github.com/mehedisarkar2k/desco-balance-check): Telegram bot for prepaid electricity customers in Dhaka.
+- [task-flow](https://github.com/mehedisarkar2k/task-flow): project management app with a permission-aware AI assistant.
+- [MindPop](https://mindpop.mehedisarkar.com): offline-first brain-break games app, live on Google Play.
 
----
-
-## 🛠️ Core Skills
-
-**Frontend**
-- React, Next.js
-- React Native
-- TypeScript, JavaScript
-- Tailwind CSS, Redux, React Query
-
-**Backend**
-- Node.js, Express.js
-- REST API design
-- MongoDB, MySQL
-
-**DevOps & Tools**
-- Docker
-- Git & GitHub
-- Linux
-- CI/CD (learning)
-
-**AI & Integration**
-- OpenAI API
-- Azure OpenAI
-- Function Calling
-- Prompt Engineering
-- - AI Integration
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedisarkar2k&theme=dark" height="180em" />
-</div>
-
----
-
-## 🌱 Currently Learning
-
-- Docker & production workflows
-- CI/CD pipelines
-- DevOps Fundamentals
-
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/mehedisarkar2k  
-- 🌐 Portfolio: https://www.mehedisarkar.com  
-- 📧 Email: mehedisarkar2k@gmail.com  
-
-I’m open to frontend, full-stack, and product-focused engineering opportunities.
+[LinkedIn](https://www.linkedin.com/in/mehedisarkar2k/)
