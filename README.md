@@ -2,14 +2,14 @@
 
 Product engineer for web and mobile. I build booking, payments and learning products. I add AI features that users can trust.
 
-For 5 years I have worked with clients in Australia, Sweden and the UK. My case studies show the problem, the decision and the trade-off: https://www.mehedisarkar.com/blog?ref=github
+For 5 years I have worked with clients in Australia, Sweden and the UK. See what I have built: https://www.mehedisarkar.com/work?ref=github
 
 ## What I build
 
-- **Booking.** A 10-minute slot hold, so two people cannot book the same court at the same moment. Reminders, cancellations and club payouts. [Case study](https://www.mehedisarkar.com/blog/booking-race?ref=github)
-- **Payments.** Stripe in 4 products: manual capture, Connect payouts, refunds and 3D Secure. Money moves only when a booking is really going ahead. [Case study](https://www.mehedisarkar.com/blog/payments-hold-first?ref=github)
-- **Inherited systems.** I took over a live salon booking system. I fixed the 31 defects an audit had listed and cut the mobile payload from 17.2 MB to 1.7 MB. [Case study](https://www.mehedisarkar.com/blog/inherited-booking-system?ref=github)
-- **Learning apps and AI.** A Gemini OCR pipeline turns scanned textbooks into structured content. It has page timeouts, retries and recovery after a worker crash. [Case study](https://www.mehedisarkar.com/blog/textbook-pipeline?ref=github)
+- **Booking.** A 10-minute slot hold, so two people cannot book the same court at the same moment. Reminders, cancellations and club payouts. [More](https://www.mehedisarkar.com/booking?ref=github)
+- **Payments.** Stripe in 4 products: manual capture, Connect payouts, refunds and 3D Secure. Money moves only when a booking is really going ahead. [More](https://www.mehedisarkar.com/booking?ref=github)
+- **Inherited systems.** I took over a live salon booking system. I fixed the 31 defects an audit had listed and cut the mobile payload from 17.2 MB to 1.7 MB. [More](https://www.mehedisarkar.com/service-businesses?ref=github)
+- **Learning apps and AI.** A Gemini OCR pipeline turns scanned textbooks into structured content. It has page timeouts, retries and recovery after a worker crash. [More](https://www.mehedisarkar.com/edtech?ref=github)
 - **Mobile apps.** I led a mobile team of 3 developers on 2 products and owned the App Store and Google Play releases. I worked on a padel booking app with 100K+ downloads on Google Play.
 
 ## Stack
